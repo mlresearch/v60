@@ -1,0 +1,70 @@
+---
+booktitle: Proceedings of the Sixth Workshop on Conformal and Probabilistic Prediction
+  and Applications
+shortname: COPA
+volume: 60
+year: '2017'
+start: 2017-06-13
+end: 2017-06-16
+url: http://proceedings.mlr.press
+location: Stockholm, Sweden
+published: 2017-05-31
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: COPA-2017
+month: 0
+cycles: false
+editor:
+- given: Alex
+  family: Gammerman
+- given: Vladimir
+  family: Vovk
+- given: Zhiyuan
+  family: Luo
+- given: Harris
+  family: Papadopoulos
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Sixth Workshop on Conformal and Probabilistic Prediction and Applications on 13-16 June 2017
+
+  Published as Volume 60 by the Proceedings of Machine Learning Research on 31 May 2017.
+
+  Volume Edited by:
+    Alex Gammerman
+    Vladimir Vovk
+    Zhiyuan Luo
+    Harris Papadopoulos
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 13--16 Jun
+baseurl: "/v60"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v60
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conformal and Probabilistic Prediction and Applications
+  url: 
+  location: 
+  dates:
+  - 2017-06-13
+  - 2017-06-14
+  - 2017-06-15
+  - 2017-06-16
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v60/copa17.bib
