@@ -7,6 +7,8 @@ year: '2017'
 start: 2017-06-13
 end: 2017-06-16
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 location: Stockholm, Sweden
 published: 2017-05-31
 layout: proceedings
